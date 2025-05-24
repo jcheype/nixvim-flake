@@ -1,6 +1,5 @@
 {
   imports = [
-    ./ai/avante.nix
     ./ai/copilot.nix
     ./ai/windsurf.nix
 
