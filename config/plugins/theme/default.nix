@@ -1,6 +1,7 @@
 {
   colorschemes = {
-    catppuccin = {
+    # catppuccin = {
+    gruvbox = {
       enable = true;
       settings = {
         background = {
